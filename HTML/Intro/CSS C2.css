@@ -1,0 +1,153 @@
+
+    .B{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-right: 10px;
+    }
+    .N{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 10px;
+    }
+    .one{
+        margin-right: 10px;
+    }
+    .one:hover{
+        color: blue;
+    }
+    .one:active{
+        color: black;
+    }
+    .two{
+        margin-right: 10px;
+    }
+    .two:hover{
+        color: blue;
+    }
+    .two:active{
+        color: black;
+    }
+    .three{
+        margin-right: 10px;
+    }
+    .three:hover{
+        color: blue;
+    }
+    .three:active{
+        color: black;
+    }
+    .four{
+        margin-right: 10px;
+    }
+    .four:hover{
+        color: blue;
+    }
+    .four:active{
+        color: black;
+    }
+    .five:hover{
+        color: blue;
+    }
+    .five:active{
+        color: black;
+    }
+    .S{
+        background-color: green;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-color: black;
+        border: none;
+        cursor: pointer;
+        transition: all 0.5s;
+    }
+    .S:hover{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .S:active{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: black;
+    }
+    .Sh{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-left: 15px;
+        padding-right: 15px;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
+        cursor: pointer;
+    }
+    .Sh:active{
+        box-shadow: none;
+    }
+    .one-b{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-right: 15px;
+        cursor: pointer;
+        transition: all 0.1s;
+    }
+    .one-b:hover{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .one-b:active{
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    }
+    .two-b{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-right: 15px;
+        cursor: pointer;
+        transition: all 0.1s;  
+    }
+    .two-b:hover{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .two-b:active{
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    }
+    .three-b{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-right: 15px;
+        cursor: pointer;
+        transition: all 0.1s;  
+    }
+    .three-b:hover{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .three-b:active{
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    }

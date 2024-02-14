@@ -1,0 +1,132 @@
+
+.N{
+    display: block;
+    margin-bottom: 5px;
+}
+.E{
+    display: block;
+    margin-bottom: 100px;
+}
+
+.P{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.YES{
+    cursor: pointer;
+}
+.NO{
+    cursor: pointer;
+}
+
+.img{
+    margin-top: 100px;
+    width: 200px;
+}
+.SB2{
+    padding-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: small;
+    border: none;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.466);
+    border-radius: 100px;
+    padding-left: 15px;
+    width: 170px;
+}
+.G{
+    text-align: center;
+    margin-bottom: 100px;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+.img2{
+    align-content: center;
+}
+
+.FN{
+    display: inline-block;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.SN{
+    display: inline-block;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;  
+}
+.Email{
+    display: block;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px; 
+    margin-top: 10px;
+    width: 365px;
+}
+.SU{
+    margin-top: 10px;
+    background-color: rgb(76, 76, 255);
+    border: none;
+    padding: 12px 170px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.Header1{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: normal;
+}
+.EPL{
+    border: none;
+    padding: 10px 10px;
+    background-color: rgb(201, 201, 201);
+    color: rgb(22, 22, 22);
+    display: block;
+    width: 375px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.ED{
+    border: none;
+    padding: 10px 10px;
+    background-color: rgb(201, 201, 201);
+    color: rgb(22, 22, 22);
+    display: block;
+    width: 375px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.RN{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+.SFL{
+    background-color: rgb(201, 201, 201);
+    border: none;
+    padding: 12px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    text-align: right;
+    align-content: right;
+    justify-self: right;
+    display: inline-block;
+}
+.buttons{
+    width: 272px;
+    text-align: right;
+    display: inline-block;
+}

@@ -1,0 +1,57 @@
+.back-to-amazon{
+    color: rgb(0, 113, 133);
+    text-decoration: underline;
+    cursor: pointer;
+    transition: color 0.15s;
+}
+.back-to-amazon:hover{
+    color: rgb(199, 135, 15);
+}
+.NBRS{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.cash{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+.FDT{
+    font-weight: bold;
+}
+.ATC{
+    background-color: rgb(255, 216, 20);
+    border-radius: 100px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 17px;
+    padding-right: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    transition:background-color 0.15s ;
+}
+.ATC:hover{
+    background-color:rgb(236, 198, 4) ;
+}
+.ATC:active{
+    opacity: 0.7;
+}
+.BN{
+    background-color: rgb(255, 164, 28);
+    border-radius: 100px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 17px;
+    padding-right: 17px;
+    font-weight: bold;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.BN:hover{
+    background-color:rgb(231, 139, 1) ;
+}
+.BN:active{
+    opacity: 0.7;
+}

@@ -1,0 +1,20 @@
+.images{
+    text-align: center;
+}
+
+.img{
+    width: 200px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.img1{
+    border-radius: 10px;
+}
+
+.img3{
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}

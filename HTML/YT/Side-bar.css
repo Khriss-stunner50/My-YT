@@ -1,0 +1,175 @@
+
+
+@media(min-width:431px){
+    .side-bar{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        top:80px ;
+        background-color: white;
+        width: 170px;
+        display: flex;
+        flex-direction: column;
+        z-index: 1;
+    }
+    
+    .SB-icons{
+        width: 35px;
+        display: flex;
+        flex-direction: row;
+       
+        align-items: center;
+    }
+    
+    .home{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        flex: 1;
+        padding-left: 21px;
+        align-items: center;
+    }
+    
+    .explore{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        flex: 1;
+        padding-left: 21px;
+        align-items: center;
+    }
+    
+    
+    .subscriptions{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        flex: 1;
+        padding-left: 21px;
+        align-items: center;
+    }
+    
+    .originals{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        flex: 1;
+        padding-left: 21px;
+        align-items: center;
+    }
+    
+    .youtube-music{
+        display: flex;
+        flex-direction: row;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        flex: 1;
+        padding-left: 21px;
+        align-items: center;
+    }
+    
+    .library{
+        display: flex;
+        flex-direction: row;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        flex: 1;
+        padding-left: 21px;
+        align-items: center;
+    }
+    
+    .side-bar-box{
+        flex: 1;
+    }
+
+    .side-bar-box:hover{
+        cursor: pointer;
+        background-color: rgb(236, 236, 236);
+    }
+    
+    .text{
+        text-decoration: none;
+        color: black;
+        text-wrap: nowrap;
+    }
+    
+    .icon-text{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:small;
+        display: flex;
+        flex-direction: column;
+        margin-left: 5px;
+    }
+}
+
+@media (max-width:431px){
+    .SB-icons{
+        margin-bottom: 0;
+    }
+
+    .library{
+        width: 35px;
+        display: flex;
+        flex-direction: column;
+        padding-left: 21px;
+    }
+
+    .youtube-music{
+        width: 35px;
+        display: flex;
+        flex-direction: column;
+        padding-left: 21px;
+    }
+
+    .originals{
+        width: 35px;
+        display: flex;
+        flex-direction: column;
+        padding-left: 21px;
+    }
+
+    .subscriptions{
+        width: 35px;
+        display: flex;
+        flex-direction: column;
+        padding-left: 21px;
+    }
+
+    .explore{
+        width: 35px;
+        display: flex;
+        flex-direction: column;
+        padding-left: 21px;
+    }
+
+    .home{
+        width: 35px;
+        display: flex;
+        flex-direction: column;
+        padding-left: 21px;
+    }
+
+    .icon-text{
+        font-size: 10px;
+        opacity: 0;
+    }
+    .side-bar{
+        width: 72px;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        top:80px ;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        z-index: 1;
+    }
+}
